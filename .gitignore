@@ -1,0 +1,13 @@
+*~
+
+# Emacs temp buffers
+\#*.*\#
+.\#*
+
+# rvmc for rvm users
+.rvmrc
+.idea
+.ruby-gemset
+
+# Ignore CFoundry manifests saved by deploy
+manifest*
